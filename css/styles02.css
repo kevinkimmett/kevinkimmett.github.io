@@ -2645,6 +2645,7 @@ body {
 
 .footer {
   justify-content: space-around;
+   font-family: Work Sans, sans-serif;
   max-width: 40vw;
   margin-top: 0;
   margin-left: auto;
@@ -3271,6 +3272,7 @@ body {
 
 .frame-17 {
   grid-column-gap: 40px;
+   font-family: Work Sans, sans-serif;
   justify-content: flex-start;
   align-items: center;
   width: 100%;
@@ -3280,6 +3282,7 @@ body {
 
 .linkedin {
   border: 0 solid #00aeff;
+  font-family: Work Sans, sans-serif;
   border-bottom-width: 2px;
   flex: 0 auto;
   justify-content: center;
